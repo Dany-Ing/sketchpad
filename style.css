@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+#container {
+    width:500px;
+    height:500px;
+    border:1px black solid;
+    overflow:auto;
+
+}
+
+#container div {
+    display: block;
+    float:left;
+}
+
