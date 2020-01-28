@@ -26,7 +26,6 @@ const divi = document.querySelectorAll('#container > div');
                 }
         });
     });
-
 }
 
 //Prompts User for Grid Size
