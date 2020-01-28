@@ -1,4 +1,4 @@
-This project will be a browser verson of a skethpad and an Etch-A-Sketch. The purpose of the project is to practice knowledge of the DOM. 
+This project will be a browser verson of a skethpad. The purpose of the project is to practice knowledge of the DOM. 
 
 From The Odin Project's [curricullum]
 https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project?ref=lnav
@@ -9,3 +9,4 @@ Challenges Faced:
     2.) Change background colors for each div 
     3.) Solving grid overflow issues with larger sizes
 
+Demo: https://dany-ing.github.io/sketchpad/
